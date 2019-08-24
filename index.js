@@ -24,10 +24,10 @@ function appendKitten(name) {
   var j = kittens
   j.push(name)
   return j
-  
+
 }
 
 function prependKitten(name) {
-  
-  
+
+
 }
