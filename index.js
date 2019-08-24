@@ -33,11 +33,11 @@ return newwK
 }
 
 function removeLastKitten() {
-  var newKittens = kittens.slice(0, 2)
-  return newKittens
+  var newKK = kittens.slice(0, 2)
+  return newKK
 }
 
  function removeFirstKitten() {
-  var newKittens = kittens.slice(1,3)
-  return newKittens
+  var newKe = kittens.slice(1,3)
+  return newKe
 }
