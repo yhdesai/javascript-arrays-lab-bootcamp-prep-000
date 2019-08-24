@@ -21,9 +21,8 @@ return kittens;
 }
 
 function appendKitten(name) {
-  var j = kittens
-  j.push(name)
-  return j
+  var newK = [...kittens, name]
+    return newK
 
 }
 
